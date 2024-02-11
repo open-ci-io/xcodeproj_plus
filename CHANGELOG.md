@@ -1,3 +1,6 @@
+## 0.3.0
+- Update dependencies
+
 ## 0.2.3
 
 - Upgrade dependency on petitparser to 5.0.0
