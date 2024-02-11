@@ -1,4 +1,4 @@
-import 'package:xcodeproj/xcodeproj.dart';
+import 'package:xcodeproj_plus/xcodeproj.dart';
 
 void main(List<String> args) {
   var proj = XCodeProj(args.first);

@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:xcodeproj/src/plist/annotated_value.dart';
+import 'package:xcodeproj_plus/src/plist/annotated_value.dart';
 
 import 'plain_format_parser.dart';
 

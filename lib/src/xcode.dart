@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:snapshot/snapshot.dart';
-import 'package:xcodeproj/src/plist/plain_format.dart';
+import 'package:xcodeproj_plus/src/plist/plain_format.dart';
 import 'package:path/path.dart' as path_lib;
-import 'package:xcodeproj/src/scheme.dart';
+import 'package:xcodeproj_plus/src/scheme.dart';
 import 'pbx.dart';
 
 mixin XCodeProjMixin on SnapshotView {

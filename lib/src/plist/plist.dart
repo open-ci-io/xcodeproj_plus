@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:xcodeproj/src/plist/plain_format.dart';
-import 'package:xcodeproj/src/plist/xml_format.dart';
+import 'package:xcodeproj_plus/src/plist/plain_format.dart';
+import 'package:xcodeproj_plus/src/plist/xml_format.dart';
 import 'package:path/path.dart' as path_lib;
 
 class PList {
@@ -9,7 +9,8 @@ class PList {
 
   final Map<String, dynamic>? content;
 
-  PList.load(this.path) : content = _load(File(path).readAsStringSync()) as Map<String, dynamic>?;
+  PList.load(this.path)
+      : content = _load(File(path).readAsStringSync()) as Map<String, dynamic>?;
 
   static Map? _load(String content) {
     if (content.startsWith('bplist')) {

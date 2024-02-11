@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:test/test.dart';
-import 'package:xcodeproj/src/plist/plain_format.dart';
+import 'package:xcodeproj_plus/src/plist/plain_format.dart';
 
 void main() {
   group('PList plain format', () {

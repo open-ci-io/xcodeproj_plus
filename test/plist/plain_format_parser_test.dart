@@ -2,8 +2,8 @@ import 'dart:typed_data';
 
 import 'package:petitparser/petitparser.dart';
 import 'package:test/test.dart';
-import 'package:xcodeproj/src/plist/annotated_value.dart';
-import 'package:xcodeproj/src/plist/plain_format_parser.dart';
+import 'package:xcodeproj_plus/src/plist/annotated_value.dart';
+import 'package:xcodeproj_plus/src/plist/plain_format_parser.dart';
 
 void main() {
   group('PList plain format parser', () {
