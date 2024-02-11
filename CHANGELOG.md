@@ -1,4 +1,9 @@
+## 0.3.1
+
+- Refactor
+
 ## 0.3.0
+
 - Update dependencies
 
 ## 0.2.3
