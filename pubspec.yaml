@@ -1,7 +1,7 @@
 name: xcodeproj_plus
 description: A library for reading and modifying XCode projects.
 version: 0.3.0
-homepage: https://https://open-ci.io/
+homepage: https://open-ci.io/
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
