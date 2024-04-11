@@ -1,6 +1,6 @@
 name: xcodeproj_plus
 description: A library for reading and modifying XCode projects.
-version: 0.3.3
+version: 0.3.4
 homepage: https://open-ci.io/
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
   path: ^1.9.0
   petitparser: ^6.0.2
   quiver: ^3.2.1
-  snapshot_plus: ^0.3.0
+  snapshot_plus: ^0.3.1
   xml: ^6.5.0
 
 dev_dependencies:
