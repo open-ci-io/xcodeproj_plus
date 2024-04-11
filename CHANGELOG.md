@@ -1,3 +1,7 @@
+## 0.3.3
+
+- use snapshot_plus
+
 ## 0.3.2
 
 - update snapshot to 0.2.6

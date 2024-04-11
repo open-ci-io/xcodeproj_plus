@@ -2,7 +2,7 @@ library pbx;
 
 import 'dart:collection';
 
-import 'package:snapshot/snapshot.dart';
+import 'package:snapshot_plus/snapshot.dart';
 import 'package:xcodeproj_plus/src/uuid.dart';
 import 'package:xcodeproj_plus/src/xcode.dart';
 import 'package:quiver/core.dart';
