@@ -7,7 +7,7 @@ A library for reading and modifying XCode projects.
 A simple usage example:
 
 ```dart
-import 'package:xcodeproj_plus/xcodeproj.dart';
+import 'package:xcodeproj_plus/xcodeproj_plus.dart';
 
 void main() {
   final proj = XCodeProj('path/to/project');
